@@ -1,11 +1,11 @@
 <html>
+<head>
 <link rel="stylesheet" href="css/bootstrap.min.css">
 <script src="js/jQuery.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
-
 <link rel="stylesheet" href="css/style.css">
-<body>
-<marquee><font size="10"> WELCOME TO WATER CAN ONLINE BOOKING </marquee></font>
+</head>
+<body style="text-align: center">
 
 <div class="view" id="view">
         <%

@@ -63,20 +63,20 @@ function adminlogin()
 <br/>
 </td>
 </tr>
-</div>
-</div>
-</div>
 
-<div>
-<div>
-<div>
 
 <input type="submit"  value="Submit" class="btn btn-success"  >
 </td>
 <td>
 <input type="button"  value="Reset" class="btn btn-danger" onclick="reset()">
 
+</div>
+</div>
+</div>
 
+<div>
+<div>
+<div>
 </table>
 </div>
 </div>

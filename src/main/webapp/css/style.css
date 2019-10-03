@@ -1,12 +1,22 @@
-@CHARSET "ISO-8859-1";
-
-.bimage{
-	 margin: 0;
-    padding: 0;
-    font-family: sans-serif;
-    background-image: url("");
-    background-repeat: no-repeat;
-    height: 50vh;
-    background-size: cover;
-	
+@charset "ISO-8859-1";
+.img{
+   background-image: url("water.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 100vh;
+   width:100%;
+}
+.anchor-style{
+   color:darkblue;
+   text-decoration: none;
+   font-size:20px;
+   font-weight:bold;
+}
+div.c {
+  font-size: 150%;
+  color:darkblue;
+ 
+   text-decoration: none;
+   font-size:30px;
+   font-weight:bold;
 }

@@ -15,7 +15,7 @@
         <a class="nav-link " href="?pageName=ulogin.jsp">User Login</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link " href="?pageName=adminLogin.jsp">Admin_Login</a>
+        <a class="nav-link " href="?pageName=adminLogin.jsp">Admin Login</a>
       </li>
       
     </ul>
